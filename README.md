@@ -39,7 +39,7 @@ Bu proje, Python'da tekrarlayan sinir ağları (RNN'ler) kullanarak Shakespeare 
 
 ### Kullanım:
 
-- Projeyi klonlayın:: `git clone https://github.com/aakcay5656/generatingTextWithRNN.git`
+- Projeyi klonlayın : `git clone https://github.com/aakcay5656/generatingTextWithRNN.git`
 - Python 3 ve gerekli kütüphaneleri kurun (requirements.txt dosyasında listelenmiştir).
 - Projeyi çalıştırmak için `python main.py` komutunu çalıştırın.
 
