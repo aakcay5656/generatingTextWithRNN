@@ -17,6 +17,7 @@ index_to_char = dict((i,c) for i,c in enumerate(characters))
 SEQ_LENGTH = 40
 STEP_SIZE = 3
 """
+# textgenerator.model
 sentences = []
 next_characters = []
 
